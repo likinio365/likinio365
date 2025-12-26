@@ -63,8 +63,6 @@ Athens, Greece • Building reliable systems, automating workflows, and making o
 ---
 
 ## 💬 Let’s Connect
-
-
 - 💼 LinkedIn: `www.linkedin.com/in/vassilis-likollari-528112237`
 - ✉️ Email: `basilislikollari@gmail.com`
 
