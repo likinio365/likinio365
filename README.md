@@ -43,38 +43,7 @@ Athens, Greece • Building reliable systems, automating workflows, and making o
 ![Bash](https://img.shields.io/badge/Bash-121011?style=flat&logo=gnu-bash&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white) <!-- if applicable -->
 
----
 
-## 📌 Featured Projects
-
-- **MicroK8s HA Automation**  
-  HA-enabled MicroK8s cluster setup with **OpenEBS storage classes**, Nginx Ingress, and **TLS via Certbot**.  
-  👉 `https://github.com/YOUR_USERNAME/microk8s-ha-automation`
-
-- **AWS & Kubernetes Observability Dashboards**  
-  Grafana dashboards for **NLB/ALB capacity**, **RDS health**, **RabbitMQ performance**, **pod/container CPU/memory**, using PromQL best practices.  
-  👉 `https://github.com/YOUR_USERNAME/grafana-observability-suite`
-
-- **Resilience & Circuit Breakers in Java Services**  
-  Configs + examples for **Resilience4j/MicroProfile Fault Tolerance**, with metrics and manual reset utilities.  
-  👉 `https://github.com/YOUR_USERNAME/java-resilience-circuit-breakers`
-
-- **Full-Stack App: React + Node + MongoDB**  
-  Contact form with **EmailJS / Nodemailer**, Docker Compose, and GitHub Actions for CI/CD.  
-  👉 `https://github.com/YOUR_USERNAME/fullstack-react-node-mongo`
-
-> 💡 Pin these repositories on your GitHub profile for visibility.
-
----
-
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)
-<!-- Optional: Streak stats -->
-<!-- ![GitHub Streak](https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=radical) -->
-
----
 
 ## 🗓️ What I’m Focusing On
 
@@ -95,9 +64,9 @@ Athens, Greece • Building reliable systems, automating workflows, and making o
 
 ## 💬 Let’s Connect
 
-- 🌐 Website: `https://yourwebsite.com`
-- 💼 LinkedIn: `https://linkedin.com/in/yourprofile`
-- ✉️ Email: `your-email@example.com`
+
+- 💼 LinkedIn: `www.linkedin.com/in/vassilis-likollari-528112237`
+- ✉️ Email: `basilislikollari@gmail.com`
 
 ---
 
