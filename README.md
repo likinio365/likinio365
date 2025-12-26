@@ -66,9 +66,12 @@ Experienced in **virtual environment administration** (VMware) and building resi
 
 ---
 
-### 📈 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=likinio365&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=likinio365&layout=compact&theme=radical)
+
+## 📈 GitHub Stats
+[![GitHub Streak](https://streak-stats.demolab.com/demo/)](https://git.io/streak-stats)
+
+![Profile Views](https://komarev.com/ghpvc/?username=likinio365&style=flat&color=blue)
+
 
 ---
 
