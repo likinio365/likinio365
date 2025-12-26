@@ -54,19 +54,15 @@ Experienced in **virtual environment administration** (VMware) and building resi
 ### 📌 Featured Projects
 - **MicroK8s HA Automation**  
   HA-enabled MicroK8s cluster setup with **OpenEBS storage classes**, Nginx Ingress, and **TLS via Certbot**.  
-  👉 [View Project](https://github.com/likinio365/microk8s-ha-automation)
-
+  
 - **AWS & Kubernetes Observability Dashboards**  
   Grafana dashboards for **NLB/ALB capacity**, **RDS health**, **RabbitMQ performance**, **pod/container CPU/memory**, using PromQL best practices.  
-  👉 [View Project](https://github.com/likinio365/grafana-observability-suite)
 
 - **IoT & Automation with Node-RED & ThingsBoard**  
   End-to-end IoT data pipeline with Node-RED flows and ThingsBoard dashboards.  
-  👉 [View Project](https://github.com/likinio365/iot-automation-suite)
 
 - **Full-Stack App: React + Node + MongoDB**  
   Contact form with **EmailJS / Nodemailer**, Docker Compose, and GitHub Actions for CI/CD.  
-  👉 [View Project](https://github.com/likinio365/fullstack-react-node-mongo)
 
 ---
 
