@@ -68,8 +68,8 @@ Experienced in **virtual environment administration** (VMware) and building resi
 
 ---
 
-### 📈 GitHub Stats
-[![GitHub Streak](https://streak-stats.demolabonments** (VMware) for scalable deployments.
+ design** for multi-source metrics.
+- Managing **virtualized environments** (VMware) for scalable deployments.
 - Optimizing **data pipelines** and observability stacks.
 - Automating **CI/CD** with GitHub Actions and environment-specific deployments.
 - IoT integrations with **Node-RED** and **ThingsBoard**.
