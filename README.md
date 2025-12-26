@@ -51,33 +51,25 @@ Experienced in **virtual environment administration** (VMware) and building resi
 
 ---
 
-### 📌 Featured Projects
-- **MicroK8s HA Automation**  
-  HA-enabled MicroK8s cluster setup with **OpenEBS storage classes**, Nginx Ingress, and **TLS via Certbot**.  
-  
-- **AWS & Kubernetes Observability Dashboards**  
-  Grafana dashboards for **NLB/ALB capacity**, **RDS health**, **RabbitMQ performance**, **pod/container CPU/memory**, using PromQL best practices.  
+### 📌 Featured Work
+*(Due to confidentiality, detailed repositories are private. Below are areas I focus on professionally.)*
 
-- **IoT & Automation with Node-RED & ThingsBoard**  
-  End-to-end IoT data pipeline with Node-RED flows and ThingsBoard dashboards.  
+- **MicroK8s & Kubernetes HA Automation**  
+  High-availability cluster setup with **OpenEBS storage**, Nginx Ingress, and TLS via Certbot.
 
-- **Full-Stack App: React + Node + MongoDB**  
-  Contact form with **EmailJS / Nodemailer**, Docker Compose, and GitHub Actions for CI/CD.  
+- **Observability Dashboards**  
+  Custom Grafana dashboards for **Kubernetes**, **AWS services**, and **RabbitMQ performance** using PromQL and InfluxDB.
 
----
+- **IoT & Automation**  
+  Node-RED flows integrated with ThingsBoard for real-time IoT data visualization.
 
-
-## 📈 GitHub Stats
-[![GitHub Streak](https://streak-stats.demolab.com/demo/)](https://git.io/streak-stats)
-
-![Profile Views](https://komarev.com/ghpvc/?username=likinio365&style=flat&color=blue)
-
+- **Full-Stack Development**  
+  React + Node.js + MongoDB applications with CI/CD pipelines and secure deployments.
 
 ---
 
-### 🗓️ What I’m Focusing On
-- Advanced **Grafana dashboard design** for multi-source metrics.
-- Managing **virtualized environments** (VMware) for scalable deployments.
+### 📈 GitHub Stats
+[![GitHub Streak](https://streak-stats.demolabonments** (VMware) for scalable deployments.
 - Optimizing **data pipelines** and observability stacks.
 - Automating **CI/CD** with GitHub Actions and environment-specific deployments.
 - IoT integrations with **Node-RED** and **ThingsBoard**.
