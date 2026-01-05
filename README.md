@@ -90,6 +90,3 @@ Experienced in **virtual environment administration** (VMware) and building resi
 
 ---
 
-### 🧩 Fun Facts
-- I love clean dashboards, **strong SLIs/SLOs**, and a good `kubectl get pods -A | grep CrashLoopBackOff` session.
-- Always looking to automate away toil and make **Ops observable**.
