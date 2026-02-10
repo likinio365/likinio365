@@ -51,23 +51,6 @@ Experienced in **virtual environment administration** (VMware) and building resi
 
 ---
 
-### 📌 Featured Work
-*(Due to confidentiality, detailed repositories are private. Below are areas I focus on professionally.)*
-
-- **MicroK8s & Kubernetes HA Automation**  
-  High-availability cluster setup with **OpenEBS storage**, Nginx Ingress, and TLS via Certbot.
-
-- **Observability Dashboards**  
-  Custom Grafana dashboards for **Kubernetes**, **AWS services**, and **RabbitMQ performance** using PromQL and InfluxDB.
-
-- **IoT & Automation**  
-  Node-RED flows integrated with ThingsBoard for real-time IoT data visualization.
-
-- **Full-Stack Development**  
-  React + Node.js + MongoDB applications with CI/CD pipelines and secure deployments.
-
----
-
  design** for multi-source metrics.
 - Managing **virtualized environments** (VMware) for scalable deployments.
 - Optimizing **data pipelines** and observability stacks.
